@@ -1,6 +1,11 @@
 h1 {
     color: blue;
 }
+.image {
+    width: 300px;
+    height: 200px
+}
+
 #red {
     color: red;
 }
