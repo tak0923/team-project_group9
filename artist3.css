@@ -1,0 +1,10 @@
+.float-container {
+    overflow: hidden;
+  }
+  
+  .float-item {
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    background-color: lightgreen;
+  }
