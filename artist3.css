@@ -8,3 +8,9 @@
     padding: 20px;
     background-color: lightgreen;
   }
+
+  p#artist_name {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0)
+  }
